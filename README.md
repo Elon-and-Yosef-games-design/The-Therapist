@@ -92,6 +92,7 @@
 
 ## סקר שוק
 
+
 כתבתי שאילתה בגוגל שהולכת כך:
 there is a game where you play as a psychologist
 ![](https://cdn.cloudflare.steamstatic.com/steam/apps/1077470/ss_927a0712f720889b59e6bca9a34254654630c9f4.600x338.jpg?t=1620095092)

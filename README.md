@@ -7,7 +7,7 @@
 
 **Platform:** PC
 
-![  ]([https://wp.technologyreview.com/wp-content/uploads/2021/11/Unknown-2.jpeg](https://github.com/Elon-and-Yosef-games-design/The-Therapist/blob/main/%D7%A6%D7%99%D7%9C%D7%95%D7%9D%20%D7%9E%D7%A1%D7%9A%202023-03-21%20124253.png?raw=true))
+![_](https://github.com/Elon-and-Yosef-games-design/The-Therapist/blob/main/%D7%A6%D7%99%D7%9C%D7%95%D7%9D%20%D7%9E%D7%A1%D7%9A%202023-03-21%20124253.png)
 
 ---
 

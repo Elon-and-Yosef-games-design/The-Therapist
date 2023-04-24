@@ -12,3 +12,8 @@
 ---
 
 [לקריאה על רכיבים רישמיים וסקר שוק](https://github.com/Elon-and-Yosef-games-design/The-Therapist/blob/main/formal-elements.md)
+
+---
+
+מאחר והמשחק, כרגע, משתמש בבמשק המשתמש ב openAi לא ניתן להריץ אותו עם webGL ולכן יש להוריד את קובץ הexe המצורף באתר itch
+[https://elonnyosef.itch.io/the-therapist](https://elonnyosef.itch.io/the-therapist)
